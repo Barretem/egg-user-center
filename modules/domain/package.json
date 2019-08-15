@@ -1,0 +1,10 @@
+{
+  "name": "@user-center/domain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "barretem",
+  "license": "ISC"
+}
